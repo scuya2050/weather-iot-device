@@ -1,0 +1,6 @@
+[submodule "weather-iot-sensor"]
+	path = weather-iot-sensor
+	url = https://github.com/scuya2050/weather-iot-sensor
+[submodule "weather-iot-wifi"]
+	path = weather-iot-wifi
+	url = https://github.com/scuya2050/weather-iot-wifi
