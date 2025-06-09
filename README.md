@@ -12,13 +12,13 @@ Together, they form a modular system for environmental monitoring and cloud inte
 
 **Front**
 
-![Full device setup](https://drive.google.com/uc?id=1ynL5ZIdr5Dtjvxb-9NPG-Xl9nS5MYr3V)
+![Device: Front](https://drive.google.com/uc?id=1x0ZgXlI--nRVUkQLewNJfkuE9jZQESTZ)
 
 
 
 **Back**
 
-![Full device setup](./media/image/device_back.jpeg)
+![Device: Back](https://drive.google.com/uc?id=14ejcVIHO6SrFkeD85URkMfdWWA8HiSIC)
 
 
 ## How it works
@@ -30,7 +30,7 @@ Together, they form a modular system for environmental monitoring and cloud inte
 
 **Demo**
 
-[![Watch the demo](./media/video/redacted/working_device_thumbnail.jpg)](https://drive.google.com/file/d/17TZ3vrrcig424YB1HIAV1cwt8I9Ifuxn/view?usp=sharing)
+[![Watch the demo](https://drive.google.com/uc?id=1ynL5ZIdr5Dtjvxb-9NPG-Xl9nS5MYr3V)](https://drive.google.com/file/d/17TZ3vrrcig424YB1HIAV1cwt8I9Ifuxn/view?usp=sharing)
 
 
 ## Getting Started
