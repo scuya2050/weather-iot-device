@@ -7,7 +7,7 @@ This repository serves as the **coordinator for the complete Weather IoT Device*
 
 Together, they form a modular system for environmental monitoring and cloud integration.
 
-Specifics for the components of the device can be found in their respective projects
+Specifics for the components of the device can be found in their respective projects.
 
 ## Device Setup
 
