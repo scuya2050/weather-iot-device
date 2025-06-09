@@ -7,40 +7,31 @@ This repository serves as the **coordinator for the complete Weather IoT Device*
 
 Together, they form a modular system for environmental monitoring and cloud integration.
 
-## Images
+## Device Setup
 
-> _Place images of the assembled device and setup here._
 
-**Placeholder 1: Full Device Setup**
-```
-![Full device setup](media/device-full.jpg)
-```
+**Front**
 
-**Placeholder 2: Sensor Module Close-up**
-```
-![Sensor module](media/sensor-module.jpg)
-```
+![Full device setup](https://drive.google.com/uc?id=1ynL5ZIdr5Dtjvxb-9NPG-Xl9nS5MYr3V)
 
-**Placeholder 3: Wi-Fi Receiver Close-up**
-```
-![Wi-Fi module](media/wifi-module.jpg)
-```
 
-## Demo Video
 
-> _Embed a video showing the device in action._
+**Back**
 
-**Placeholder: Video Demo**
-```
-[![Watch the demo](media/demo-thumbnail.jpg)](https://link-to-your-video.com)
-```
+![Full device setup](./media/image/device_back.jpeg)
 
-## How It Works
+
+## How it works
 
 1. `weather-iot-sensor` reads data from temperature, humidity, and pressure sensors.
 2. It sends that data via UART to the `weather-iot-wifi` module.
 3. The Wi-Fi module formats the data and sends it to a cloud service or API endpoint (e.g., AWS, S3).
 4. This data is later consumed in the broader data pipeline.
+
+**Demo**
+
+[![Watch the demo](./media/video/redacted/working_device_thumbnail.jpg)](https://drive.google.com/file/d/17TZ3vrrcig424YB1HIAV1cwt8I9Ifuxn/view?usp=sharing)
+
 
 ## Getting Started
 
